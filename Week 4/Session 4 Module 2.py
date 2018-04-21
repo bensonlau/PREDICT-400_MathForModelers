@@ -28,8 +28,7 @@ A=set(A)
 B=set(B)
 C=set(C)
 U=set(U)
-print ('The universe U is %s ') %U
-
+print ('The universe U  is %s ' %U)
 print ('\nA is %s') %A  # Compare these sets to the slice statements above.
 print ('B is %s') %B
 print ('C is %s\n') %C
